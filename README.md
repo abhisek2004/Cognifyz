@@ -41,3 +41,6 @@ LEVEL-2
 ![3](https://github.com/abhisek2004/Cognifyz/assets/117925314/54b330eb-06fd-445c-8366-0b1263748436)
 ![4](https://github.com/abhisek2004/Cognifyz/assets/117925314/853fa3c8-e3be-4fa6-aad8-65794a61ecdd)
 
+Languages
+HTML- 89.7% 
+CSS- 10.3%
